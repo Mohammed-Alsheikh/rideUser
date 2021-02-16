@@ -1,0 +1,5 @@
+export default {
+  DEFAULT: 'DEFAULT',
+  TRACKING: 'TRACKING',
+  APPROVED: 'APPROVED',
+};
